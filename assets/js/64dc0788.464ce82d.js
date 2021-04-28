@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{88:function(o){o.exports=JSON.parse('{"allTagsPath":"/ekoficourses.github.io/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/ekoficourses.github.io/blog/tags/facebook"}')}}]);
